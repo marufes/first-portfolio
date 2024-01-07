@@ -166,6 +166,35 @@ main section {
     font-weight: 700;
     margin-bottom: 10px;
 }
+
 ..resume-container hr {
     margin: 20px;
+}
+
+.download-cv {
+    text-align: center;
+    margin-top: 50px;
+}
+
+footer {
+    display: flex;
+    background: #FFF8F3;
+    margin-top: 100px;
+    pad: 130px 230px;
+    gap: 100px;
+}
+.foter-coloumn{
+    width: 50%;
+
+}
+.social-links{}
+.contact input ,
+textarea {
+    display: block;
+    margin-bottom: 25px ;
+    padding: 18px 35px;
+    color: white;
+    border-radius: 5px;
+    border: 0;
+
 }
